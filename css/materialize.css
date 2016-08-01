@@ -2148,7 +2148,6 @@
 }
 
 .white {
-  position: fixed;
   background-color: #FFFFFF !important;
 }
 
@@ -4086,6 +4085,7 @@ input[type=range] + .thumb {
 }
 
 nav {
+  position: fixed;
   color: #fff;
   background-color: #ee6e73;
   width: 100%;
