@@ -2148,6 +2148,7 @@
 }
 
 .white {
+  position: fixed;
   background-color: #FFFFFF !important;
 }
 
