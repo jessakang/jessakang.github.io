@@ -4085,7 +4085,6 @@ input[type=range] + .thumb {
 }
 
 nav {
-  position: fixed;
   color: #fff;
   background-color: #ee6e73;
   width: 100%;
@@ -4171,6 +4170,7 @@ nav .brand-logo.right {
 }
 
 nav ul {
+  
   margin: 0;
 }
 
